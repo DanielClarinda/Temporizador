@@ -1,0 +1,3 @@
+Temporizador  KEYWORD1
+setAlarme KEYWORD2
+checkTime KEYWORD2
